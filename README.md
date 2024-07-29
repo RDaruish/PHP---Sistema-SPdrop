@@ -26,12 +26,12 @@ O SPDrop foi projetado para facilitar o processo de dropshipping, permitindo que
 ### Demonstrações
 
 - **Landing Page**
-![Landing](https://spdrop.com.br/assets/images/gifs/Landing.gif)
+  **GIF**: [Landing](https://spdrop.com.br/assets/images/gifs/Landing.gif)
 
 - **Dashboard do Usuário**
-![Dashboard Usuário](https://spdrop.com.br/assets/images/gifs/dash_user.gif)
-
+   **GIF**: [Dash User](https://spdrop.com.br/assets/images/gifs/dash_user.gif)
+  
 - **Dashboard Administrativo**
-![Dashboard Administrativo](https://spdrop.com.br/assets/images/gifs/dash_admin.gif)
+  **GIF**: [Dash Admin](https://spdrop.com.br/assets/images/gifs/dash_admin.gif)
 
 Se você tiver interesse em mais detalhes sobre o SPDrop, estou à disposição para apresentar o sistema e responder a todas as suas perguntas. Sinta-se à vontade para entrar em contato!
